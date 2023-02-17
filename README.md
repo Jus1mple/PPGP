@@ -80,7 +80,7 @@ The memorability experimental results of PGPP and the leading PGMs are shown in 
 </font>
 
 <font face="Times New Roman" color=gray  lign=center size=2>TABLE  I.  MEMORABILITY EXPERIMENTAL RESULTS OF PGPP AND LEADING PGMS.</font>
-<img src=https://github.com/PGPP/PGPP/blob/master/Table/TABLE%20II%20USABILITY%20EXPERIMENTAL%20RESULTS%20OF%20PGPP%20AND%20LEADING%20PGMS.png lign=center width = "511.25" height = "500"/>
+<img src=./TABLE I. DEMOGRAPHIC INFORMATION OF PARTICIPANTS OF PGPP.png lign=center width = "511.25" height = "500"/>
 
 ## <font face="Times New Roman" color=black size=6>Section 5.  Demographic information of participants</font>
 Combined with the memorability experiment results in Table I, we analyze in more detail the habit of setting passwords and the ability to remember passwords of different user groups.
@@ -95,7 +95,7 @@ When grouping participants according to the highest degree, we find that partici
 </br>
  <font face="Times New Roman" color=gray lign="center"size=2>   TABLE  II.  DEMOGRAPHIC INFORMATION OF PARTICIPANTS OF PGPP.</font>
 
-<img src=https://github.com/PGPP/PGPP/blob/master/Table/TABLE%20I.%20DEMOGRAPHIC%20INFORMATION%20OF%20PARTICIPANTS%20OF%20PGPP.png lign=center width = "534" height = "400" />
+<img src=./TABLE II USABILITY EXPERIMENTAL RESULTS OF PGPP AND LEADING PGMS.png lign=center width = "534" height = "400" />
 <font face="Times New Roman">
 </br>
 </br>
